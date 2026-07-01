@@ -162,10 +162,6 @@ Two source-of-truth files power all platform support. Edit the source, then run 
 Each script regenerates the platform-specific copies automatically. Agents that read the source files natively need no regeneration.
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=JCodesMore/ai-website-cloner-template&type=Date)](https://star-history.com/#JCodesMore/ai-website-cloner-template&Date)
-
 ## License
 
 MIT
